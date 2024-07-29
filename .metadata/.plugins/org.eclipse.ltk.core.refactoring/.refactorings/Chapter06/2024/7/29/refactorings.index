@@ -1,0 +1,14 @@
+1721115145627	Delete element
+1721115725378	Rename resource 'Hello.jsp'
+1721118274141	Delete element
+1721118352445	Delete element
+1721119237374	Extract interface 'BoardService'
+1721120152603	Delete element
+1721120288387	Extract interface 'BoardService'
+1721183671102	Delete element
+1721183687972	Move compilation unit
+1721194091214	Delete element
+1721197162040	Move 'getBoard.html' to 'templates'
+1721205935330	Delete element
+1721206050330	Extract interface 'MemberService'
+1721287559062	Copy compilation unit
