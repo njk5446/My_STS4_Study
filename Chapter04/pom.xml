@@ -30,6 +30,21 @@
 			<scope>runtime</scope>
 			<version>8.3.0</version>
 		</dependency>
-	
+
+	<dependency>
+		<groupId>com.rubypaper</groupId>
+		<artifactId>SpringbootSecurityJWT</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>com.rubypaper</groupId>
+		<artifactId>Chapter01</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>com.rubypaper</groupId>
+		<artifactId>board-spring-boot-starter</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
   </dependencies>
 </project>
